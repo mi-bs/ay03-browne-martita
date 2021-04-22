@@ -1,5 +1,5 @@
 #titulo{
-    background: papayawhip;
+    background: rgb(247, 207, 133);
     color:darkslategray;
     font-family:'Courier New', Courier, monospace;
     font-size: 40px;
@@ -12,7 +12,8 @@
 #mango {
     color: orange;
     font-size: 30px;
-    font-family: 'Courier New';
+    font-family: 'Courier';
+    text-shadow: 10px orangered;
 
 }
 #pera {
@@ -31,6 +32,7 @@
     background: papayawhip;
     font-size: large;
     color: darkslategray;
+    text-emphasis: bold;
 }
 .div1 {
     margin: 10px 20px;
