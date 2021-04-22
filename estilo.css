@@ -1,0 +1,52 @@
+#titulo{
+    background: papayawhip;
+    color:darkslategray;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.parrafo {
+    font-size:medium;
+    font-family: 'Courier New';
+    color:slategrey;
+}
+#mango {
+    color: orange;
+    font-size: 30px;
+    font-family: 'Courier New';
+
+}
+#pera {
+    color: green;
+    font-size: 30px;
+    font-family: 'Courier New';
+
+}
+#palta {
+    color: purple;
+    font-size: 30px;
+    font-family: 'Courier New';
+
+}
+#enfasis {
+    background: papayawhip;
+    font-size: large;
+    color: darkslategray;
+}
+.div1 {
+    margin: 10px 20px;
+}
+#cita {
+    font-size:medium;
+    font-family: 'Courier New';
+    color:darkslategrey;  
+    text-align: center  
+}
+.div2 {
+    background: papayawhip;
+    border-radius: 10px;
+    display:inline-block;
+    margin: 10px 20px;
+}
+.imagen {
+    width: 350px;
+}
