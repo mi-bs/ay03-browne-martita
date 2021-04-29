@@ -9,11 +9,11 @@ $(document).ready(function(){
         $(this).css("color", "black");
     });
 
-    $(".boton1").click(function(){
+    $("#boton1").click(function(){
       $(".div2").hide();
     });
 
-    $(".boton2").click(function(){
+    $("#boton2").click(function(){
       $(".div2").show();
     });
 
