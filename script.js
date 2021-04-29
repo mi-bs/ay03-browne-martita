@@ -2,11 +2,11 @@ $(document).ready(function(){
     var frutas = $(".div2");
 
     frutas.mouseenter(function(){
-        $(this).css("color", "red");
+        $(this).css("background-color", "rgb(247, 207, 133)");
     });
 
     frutas.mouseleave(function(){
-        $(this).css("color", "black");
+        $(this).css("background-color", "papayawhip");
     });
 
     $("#boton1").click(function(){
