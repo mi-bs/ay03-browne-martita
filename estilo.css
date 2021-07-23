@@ -1,49 +1,5 @@
-#titulo{
-    background: rgb(247, 207, 133);
-    color:darkslategray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-}
-#s1 {
-    color: darkslategray;
-}
-.sombra {
-    text-shadow: 0px 2px 0px darkslategray;    
-}
-.typo {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;    
-}
-.parrafo {
-    font-size:medium;
-    color:slategrey;
-}
-#mango {
-    color: rgb(255, 166, 0);
-    font-size: 30px;
-}
-#pera {
-    color: green;
-    font-size: 30px;
-}
-#palta {
-    color: purple;
-    font-size: 30px;
-}
-
-.div1 {
-    margin: 10px 20px;
-}
-#cita {
-    font-size:medium;
-    color:darkslategrey;  
-    text-align: center  
-}
-.div2 {
-    background: papayawhip;
-    border-radius: 10px;
-    display:inline-block;
-    margin: 10px 20px;
-}
-.imagen {
-    width: 350px;
-}
+Es otro día de colegio, y por fin terminaron las clases de la mañana. Entre tanto estudio y correr en el recreo, 
+                    esperas con ansias la hora del almuerzo. Cuando por fin te sientas a comer el sándwich de queso que trajiste de tu casa, 
+                    sientes un olor raro que te hace fijarte de donde viene.
+Al mirar a tu alrededor, te das cuenta de que Arnaav, tu compañero nuevo que viene de la India, trajo un almuerzo con
+                carne de un color amarillento, condimientos y vegetales que tu no conoces. El olor te molesta muchísimo, así que decides:
